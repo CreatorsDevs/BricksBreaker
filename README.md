@@ -1,8 +1,6 @@
 # Bricks Breaker Game
 Remake of the popular bricks breaker game!
 
-![Game Screenshot](Images/screenshot.png)
-
 ## Features
 
 - Classic brick-breaking gameplay.
