@@ -20,7 +20,7 @@ Remake of the popular bricks breaker game!
 
 ## Playable Link
 
-You can play the game online at [Bricks Breaker Game](link-to-demo).
+You can play the game online at [Bricks Breaker Game](https://creatorsdevs.itch.io/bricks-breaker).
 
 ## Contributing
 
