@@ -14,11 +14,11 @@ Remake of the popular bricks breaker game!
 ## Game Visuals
 
 1. Lobby Screen
-<img src = "" width = 50% height = 50%>
+<img src = "https://github.com/CreatorsDevs/BricksBreaker/blob/main/Images/LobbyScreen.PNG" width = 50% height = 50%>
 2. Themes Selection Screen
-<img src = "" width = 50% height = 50%>
+<img src = "https://github.com/CreatorsDevs/BricksBreaker/blob/main/Images/ThemeSelectionScreen.PNG" width = 50% height = 50%>
 3. GamePlay
-<img src = "" width = 50% height = 50%>
+<img src = "https://github.com/CreatorsDevs/BricksBreaker/blob/main/Images/GamePlay.PNG" width = 50% height = 50%>
 
 ## Playable Link
 
